@@ -12,7 +12,7 @@ typedef struct
 
 	HANDLE			__hPrcsSnap; 
 	HANDLE			__hPrcs;
-	PROCESSENTRY32	__PE32;
+	PROCESSENTRY32		__PE32;
 	DWORD			__dwPrioCls; 
 
 }__RAT_INJECT_INFORMATION;
