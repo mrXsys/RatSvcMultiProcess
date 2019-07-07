@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ratlcps", "ratlcps\ratlcps.vcxproj", "{AE55BF87-BC8C-4006-A9D2-99CB709FBF6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE55BF87-BC8C-4006-A9D2-99CB709FBF6D}.Debug|x64.ActiveCfg = Debug|x64
+		{AE55BF87-BC8C-4006-A9D2-99CB709FBF6D}.Debug|x64.Build.0 = Debug|x64
+		{AE55BF87-BC8C-4006-A9D2-99CB709FBF6D}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE55BF87-BC8C-4006-A9D2-99CB709FBF6D}.Debug|x86.Build.0 = Debug|Win32
+		{AE55BF87-BC8C-4006-A9D2-99CB709FBF6D}.Release|x64.ActiveCfg = Release|x64
+		{AE55BF87-BC8C-4006-A9D2-99CB709FBF6D}.Release|x64.Build.0 = Release|x64
+		{AE55BF87-BC8C-4006-A9D2-99CB709FBF6D}.Release|x86.ActiveCfg = Release|Win32
+		{AE55BF87-BC8C-4006-A9D2-99CB709FBF6D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {510577F4-E19A-490D-97BD-440F65199B90}
+	EndGlobalSection
+EndGlobal
