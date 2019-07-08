@@ -8,7 +8,7 @@
 	I will Write some code in the feature. 
 	this code is for testing purposes
 
-	Thank you, mrxSys :). 
+	Thank’s, mrxSys :). 
 
 */
 
