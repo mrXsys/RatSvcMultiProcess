@@ -1,3 +1,4 @@
 # RatMultiProcesses
 
-Give you the option, to take over a number of processes and inject them.
+Just a cool process injector, that finds a random process as a good target to inject itself to it & execute.
+
